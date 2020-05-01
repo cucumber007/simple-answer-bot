@@ -1,0 +1,1 @@
+heroku logs --app simple-answer-bot
